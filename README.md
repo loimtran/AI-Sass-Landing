@@ -187,16 +187,3 @@ For more details, check the [Next.js deployment docs](https://nextjs.org/docs/de
 ## ⭐ Give A Star
 
 You can also give this repository a star to show more people and they can use this repository.
-
-## 🌟 Star History
-
-<a href="https://star-history.com/#loimtran/AI-Sass-Landing&Timeline">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=loimtran/AI-Sass-Landing&type=Timeline&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=loimtran/AI-Sass-Landing&type=Timeline" />
-  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=loimtran/AI-Sass-Landing&type=Timeline" />
-</picture>
-</a>
-
-<br />
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
