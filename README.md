@@ -7,14 +7,14 @@
   <p align="center">
     Ai SaaS Landing template for your next project
     <br />
-    <a href="https://ai-saas-landing-starter.vercel.app/"><strong>Explore »</strong></a>
+    <a href="https://AI-Sass-Landing.vercel.app/"><strong>Explore »</strong></a>
     <br />
     <br />
-    <a href="https://ai-saas-landing-starter.vercel.app/">Website</a>
+    <a href="https://AI-Sass-Landing.vercel.app/">Website</a>
     &middot;
-    <a href="https://github.com/loimtran/ai-saas-landing-starter/issues">Issues</a>
+    <a href="https://github.com/loimtran/AI-Sass-Landing/issues">Issues</a>
     &middot;
-    <a href="https://github.com/loimtran/ai-saas-landing-starter/issues/new?labels=enhancement&template=FEATURE_REQUEST_TEMPLATE.md">Request Feature</a>
+    <a href="https://github.com/loimtran/AI-Sass-Landing/issues/new?labels=enhancement&template=FEATURE_REQUEST_TEMPLATE.md">Request Feature</a>
   </p>
 </p>
 
@@ -22,41 +22,41 @@
   <a href="https://github.com/loimtran">
     <img src="https://custom-icon-badges.demolab.com/badge/made%20by%20-loimtran-556bf2?logo=github&logoColor=white&labelColor=101827" alt="Made by Aayush Bharti">
   </a>
-  <a href="https://github.com/loimtran/ai-saas-landing-starter/stargazers">
-    <img src="https://img.shields.io/github/stars/loimtran/ai-saas-landing-starter?style=flat&logo=github" alt="GitHub Stars">
+  <a href="https://github.com/loimtran/AI-Sass-Landing/stargazers">
+    <img src="https://img.shields.io/github/stars/loimtran/AI-Sass-Landing?style=flat&logo=github" alt="GitHub Stars">
   </a>
-  <a href="https://github.com/loimtran/ai-saas-landing-starter/forks">
-    <img src="https://img.shields.io/github/forks/loimtran/ai-saas-landing-starter?style=flat" alt="GitHub Forks">
+  <a href="https://github.com/loimtran/AI-Sass-Landing/forks">
+    <img src="https://img.shields.io/github/forks/loimtran/AI-Sass-Landing?style=flat" alt="GitHub Forks">
   </a>
-  <a href="https://github.com/loimtran/ai-saas-landing-starter/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/loimtran/ai-saas-landing-starter?color=dddddd&labelColor=000000" alt="License">
+  <a href="https://github.com/loimtran/AI-Sass-Landing/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/loimtran/AI-Sass-Landing?color=dddddd&labelColor=000000" alt="License">
   </a>
   <a href="https://www.typescriptlang.org/">
-    <img src="https://img.shields.io/github/languages/top/loimtran/ai-saas-landing-starter?&logoColor=%23007ACC&label=TypeScript" alt="Top Language">
+    <img src="https://img.shields.io/github/languages/top/loimtran/AI-Sass-Landing?&logoColor=%23007ACC&label=TypeScript" alt="Top Language">
   </a>
-  <a href="https://github.com/loimtran/ai-saas-landing-starter/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/loimtran/ai-saas-landing-starter?style=flat&color=orange&label=Contributors" alt="Contributors">
+  <a href="https://github.com/loimtran/AI-Sass-Landing/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/loimtran/AI-Sass-Landing?style=flat&color=orange&label=Contributors" alt="Contributors">
   </a>
-  <a href="https://github.com/loimtran/ai-saas-landing-starter/commits/main">
-    <img src="https://img.shields.io/github/commit-activity/t/loimtran/ai-saas-landing-starter?style=flat&logo=github" alt="Commits">
+  <a href="https://github.com/loimtran/AI-Sass-Landing/commits/main">
+    <img src="https://img.shields.io/github/commit-activity/t/loimtran/AI-Sass-Landing?style=flat&logo=github" alt="Commits">
   </a>
-  <a href="https://github.com/loimtran/ai-saas-landing-starter/pulls">
-    <img src="https://img.shields.io/github/issues-pr/loimtran/ai-saas-landing-starter?color=brightgreen&label=PRs" alt="Pull Requests">
+  <a href="https://github.com/loimtran/AI-Sass-Landing/pulls">
+    <img src="https://img.shields.io/github/issues-pr/loimtran/AI-Sass-Landing?color=brightgreen&label=PRs" alt="Pull Requests">
   </a>
-  <img src="https://img.shields.io/github/deployments/loimtran/ai-saas-landing-starter/Production?logo=vercel&label=Website" alt="Deployment Status">
+  <img src="https://img.shields.io/github/deployments/loimtran/AI-Sass-Landing/Production?logo=vercel&label=Website" alt="Deployment Status">
 </p>
 
 
 
-<!-- [![GitHub commits](https://img.shields.io/github/commit-activity/t/loimtran/ai-saas-landing-starter?style=social&logo=github)](https://github.com/loimtran/ai-saas-landing-starter/commits)
-[![Pull requests](https://img.shields.io/github/issues-pr/loimtran/ai-saas-landing-starter?style=social&logo=github)](https://github.com/loimtran/ai-saas-landing-starter/pulls) -->
-<!-- [![Stars](https://img.shields.io/github/stars/loimtran/ai-saas-landing-starter?style=social)](https://github.com/loimtran/ai-saas-landing-starter/stargazers)
-[![Fork](https://img.shields.io/github/forks/loimtran/ai-saas-landing-starter?style=social)](https://github.com/loimtran/ai-saas-landing-starter/forks)
+<!-- [![GitHub commits](https://img.shields.io/github/commit-activity/t/loimtran/AI-Sass-Landing?style=social&logo=github)](https://github.com/loimtran/AI-Sass-Landing/commits)
+[![Pull requests](https://img.shields.io/github/issues-pr/loimtran/AI-Sass-Landing?style=social&logo=github)](https://github.com/loimtran/AI-Sass-Landing/pulls) -->
+<!-- [![Stars](https://img.shields.io/github/stars/loimtran/AI-Sass-Landing?style=social)](https://github.com/loimtran/AI-Sass-Landing/stargazers)
+[![Fork](https://img.shields.io/github/forks/loimtran/AI-Sass-Landing?style=social)](https://github.com/loimtran/AI-Sass-Landing/forks)
 [![loimtran](https://custom-icon-badges.demolab.com/badge/made%20by%20-loimtran-556bf2?logo=github&logoColor=white&labelColor=101827)](https://github.com/loimtran)
-[![License](https://img.shields.io/github/license/loimtran/ai-saas-landing-starter?color=dddddd&labelColor=000000)](https://github.com/loimtran/ai-saas-landing-starter/blob/main/LICENSE)
-[![Top Language](https://img.shields.io/github/languages/top/loimtran/ai-saas-landing-starter?logo=github&logoColor=%23007ACC&label=TypeScript)](https://www.typescriptlang.org/)
-[![Contributors](https://img.shields.io/github/contributors/loimtran/ai-saas-landing-starter?style=flat&color=orange&label=Contributors)](https://github.com/loimtran/ai-saas-landing-starter/graphs/contributors)
-![deployment](https://img.shields.io/github/deployments/loimtran/ai-saas-landing-starter/Production?logo=vercel&label=Website) -->
+[![License](https://img.shields.io/github/license/loimtran/AI-Sass-Landing?color=dddddd&labelColor=000000)](https://github.com/loimtran/AI-Sass-Landing/blob/main/LICENSE)
+[![Top Language](https://img.shields.io/github/languages/top/loimtran/AI-Sass-Landing?logo=github&logoColor=%23007ACC&label=TypeScript)](https://www.typescriptlang.org/)
+[![Contributors](https://img.shields.io/github/contributors/loimtran/AI-Sass-Landing?style=flat&color=orange&label=Contributors)](https://github.com/loimtran/AI-Sass-Landing/graphs/contributors)
+![deployment](https://img.shields.io/github/deployments/loimtran/AI-Sass-Landing/Production?logo=vercel&label=Website) -->
 
 <details>
 <summary>Table of Contents</summary>
@@ -117,7 +117,7 @@ reference or inspiration for future modern applications or websites in general.
 
 <!-- ## :wrench: Stats
 
-[![Stats for StarForge](/.github/images/stats.svg "Stats for StarForge")](https://pagespeed.web.dev/analysis?url=https://ai-saas-landing-starter.vercel.app/ "Stats for StarForge") -->
+[![Stats for StarForge](/.github/images/stats.svg "Stats for StarForge")](https://pagespeed.web.dev/analysis?url=https://AI-Sass-Landing.vercel.app/ "Stats for StarForge") -->
 
 ## 🧰 Setup
 
@@ -125,16 +125,14 @@ reference or inspiration for future modern applications or websites in general.
 2. Fork this repository on GitHub and clone **your fork** to your local machine:
 
    ```bash
-   git clone https://github.com/<your-username>/ai-saas-landing-starter.git
-   cd ai-saas-landing-starter
+   git clone https://github.com/<your-username>/AI-Sass-Landing.git
+   cd AI-Sass-Landing
    ```
 3. Open the terminal in the project root and run `pnpm install` to install dependencies.
 4. Start the development server with `pnpm dev`.
 <!-- 5. Visit **[http://localhost:3000](http://localhost:3000)** in your browser to see it live 🚀. -->
 
 ## 🔧 Contributing
-
-[![contributors](https://contrib.rocks/image?repo=loimtran/ai-saas-landing-starter)](https://github.com/loimtran/ai-saas-landing-starter/graphs/contributors)
 
 Contributions are what make the open source community such an amazing place to
 learn, inspire, and create. Any contributions you make are **greatly
@@ -170,7 +168,7 @@ project and made it possible:
 <!-- [![Telegram](https://img.shields.io/badge/Telegram-@loimtran-2CA5E0?style=social&logo=telegram&logoColor=000000)](https://t.me/loimtran) -->
 [![Follow Me](https://img.shields.io/github/followers/loimtran?style=social&label=Github&maxAge=2592000)](https://github.com/loimtran "Follow Me")
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-loimtran-blue?style=flat&logo=linkedin&logoColor=b0c0c0&labelColor=363D44)](https://www.linkedin.com/in/iloimtran)
-[![Tweet about this project](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Filoimtran)](https://twitter.com/intent/tweet?text=Check+out+this+amazing+app:&url=https%3A%2F%2Fgithub.com%2Floimtran%2Fai-saas-landing-starter "Tweet about this project")
+[![Tweet about this project](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Filoimtran)](https://twitter.com/intent/tweet?text=Check+out+this+amazing+app:&url=https%3A%2F%2Fgithub.com%2Floimtran%2FAI-Sass-Landing "Tweet about this project")
 <!-- [![Twitter](https://img.shields.io/twitter/follow/iloimtran.svg?style=social)](https://twitter.com/intent/follow?screen_name=iloimtran) -->
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-loimtran-grey?style=flat&logo=instagram&logoColor=b0c0c0&labelColor=8134af)](https://www.instagram.com/loimtran) -->
 
@@ -180,8 +178,8 @@ project and made it possible:
 | Method                     | Description                              | Action                                                                                                                                                                           |
 | :------------------------- | :--------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **🔧 Manual Build**        | Create an optimized production build.    | `pnpm build`                                                                                                                                                         |
-| **▲ Vercel (Recommended)** | Deploy instantly on the Vercel platform. | [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Floimtran%2Fai-saas-landing-starter)                |
-| **🌐 Netlify**             | Deploy easily on Netlify.                | [![Deploy with Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/loimtran/ai-saas-landing-starter) |
+| **▲ Vercel (Recommended)** | Deploy instantly on the Vercel platform. | [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Floimtran%2FAI-Sass-Landing)                |
+| **🌐 Netlify**             | Deploy easily on Netlify.                | [![Deploy with Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/loimtran/AI-Sass-Landing) |
 
 For more details, check the [Next.js deployment docs](https://nextjs.org/docs/deployment).
 
@@ -192,11 +190,11 @@ You can also give this repository a star to show more people and they can use th
 
 ## 🌟 Star History
 
-<a href="https://star-history.com/#loimtran/ai-saas-landing-starter&Timeline">
+<a href="https://star-history.com/#loimtran/AI-Sass-Landing&Timeline">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=loimtran/ai-saas-landing-starter&type=Timeline&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=loimtran/ai-saas-landing-starter&type=Timeline" />
-  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=loimtran/ai-saas-landing-starter&type=Timeline" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=loimtran/AI-Sass-Landing&type=Timeline&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=loimtran/AI-Sass-Landing&type=Timeline" />
+  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=loimtran/AI-Sass-Landing&type=Timeline" />
 </picture>
 </a>
 
